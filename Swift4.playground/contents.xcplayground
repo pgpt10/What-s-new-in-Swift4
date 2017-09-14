@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='OneSidedRanges'/>
+        <page name='String'/>
+        <page name='KeyPaths'/>
+        <page name='DictionarySet'/>
+        <page name='OtherConcepts'/>
+        <page name='GenericSubscripts'/>
+        <page name='ProtocolComposition'/>
+        <page name='Codable'/>
+    </pages>
+</playground>
